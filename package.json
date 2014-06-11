@@ -1,0 +1,15 @@
+{
+    "author": "Maciej Pawlik",
+    "author": "Bartosz Baliś",
+    "name": "hyperflow-ismop",
+    "version": "0.1.0",
+    "repository": {
+        "url": "github.com:dice-cyfronet/hyperflow-ismop.git"
+    },
+    "engines": {
+        "node": "*"
+    },
+    "dependencies": {
+        "hyperflow": ""
+    }
+}
