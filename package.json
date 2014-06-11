@@ -4,7 +4,7 @@
     "name": "hyperflow-ismop",
     "version": "0.1.0",
     "repository": {
-        "url": "github.com:dice-cyfronet/hyperflow-ismop.git"
+        "url": "https://github.com/dice-cyfronet/hyperflow-ismop"
     },
     "engines": {
         "node": "*"
