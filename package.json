@@ -1,6 +1,12 @@
 {
-    "author": "Maciej Pawlik",
-    "author": "Bartosz Baliś",
+    "author": {
+        "name": "Maciej Pawlik"
+    },
+    "contributors": [
+        {
+            "name": "Bartosz Baliś"
+        }
+    ],
     "name": "hyperflow-ismop",
     "version": "0.1.0",
     "repository": {
