@@ -16,6 +16,6 @@
         "node": "*"
     },
     "dependencies": {
-        "hyperflow": ""
+        "hyperflow": "git://github.com/dice-cyfronet/hyperflow.git#feature/npm_package"
     }
 }
